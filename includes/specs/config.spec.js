@@ -7,7 +7,7 @@ module.exports = {
     [required]: true,
     version: {
         [type]: 'string',
-        [doc]: 'Version of the Icarus theme that is currently used',
+        [doc]: 'Version of the humingfeng theme that is currently used',
         [required]: true,
         [defaultValue]: version
     },

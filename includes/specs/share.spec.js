@@ -2,7 +2,7 @@ const { doc, type, defaultValue, required, requires } = require('../common/utils
 
 module.exports = {
     [type]: 'object',
-    [doc]: 'Share plugin settings\nhttps://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share',
+    [doc]: 'Share plugin settings\nhttps://ppoffice.github.io/hexo-theme-humingfeng/categories/Plugins/Share',
     type: {
         [type]: 'string',
         [doc]: 'Share plugin name',
