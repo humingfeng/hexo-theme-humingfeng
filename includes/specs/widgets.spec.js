@@ -72,7 +72,7 @@ const ProfileSpec = {
     author: {
         [type]: 'string',
         [doc]: 'Author name to be shown in the profile widget',
-        [defaultValue]: 'Your name'
+        [defaultValue]: 'HuMingfeng'
     },
     author_title: {
         [type]: 'string',
