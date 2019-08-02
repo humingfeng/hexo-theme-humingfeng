@@ -4,17 +4,17 @@ const DEFAULT_WIDGETS = [
     {
         type: 'profile',
         position: 'left',
-        author: 'Your name',
-        author_title: 'Your title',
-        location: 'Your location',
+        author: 'HuMingfeng',
+        author_title: '御前提笔小书童',
+        location: 'Beijing China',
         avatar: null,
         gravatar: null,
         avatar_rounded: false,
-        follow_link: 'https://github.com/ppoffice',
+        follow_link: 'https://github.com/humingfeng',
         social_links: {
             Github: {
                 icon: 'fab fa-github',
-                url: 'https://github.com/ppoffice'
+                url: 'https://github.com/humingfeng'
             },
             Facebook: {
                 icon: 'fab fa-facebook',
@@ -43,7 +43,7 @@ const DEFAULT_WIDGETS = [
         position: 'left',
         links: {
             Hexo: 'https://hexo.io',
-            PPOffice: 'https://github.com/ppoffice'
+            Github: 'https://github.com/humingfeng'
         }
     },
     {
