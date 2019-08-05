@@ -21,7 +21,13 @@ Once started, HuMingfeng will remind you of any missing dependencies and configu
 
 ### :gift: Features
 
-> 基于主题https://github.com/ppoffice/hexo-theme-icarus修改
+> 说明：本主题在<https://github.com/ppoffice/hexo-theme-icarus> 的基础上进行二次开发
+>
+>
+> **欢迎大家Star、Fork、提意见、喷。**
+
+如果本主题也是你喜欢的菜，请动动手指 [Star](https://github.com/humingfeng/hexo-theme-humingfeng/stargazers) 支持一下
+
 
 **Extensive Plugin Support**
 
