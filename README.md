@@ -1,26 +1,27 @@
 <p align="center" class="has-mb-6">
-<img class="not-gallery-item" height="48" src="https://ppoffice.github.io/hexo-theme-icarus/images/logo.svg">
+<img class="not-gallery-item" height="48" src="https://www.royalscholar.cn/images/hu.svg">
 <br> A simple, delicate, and modern theme for the static site generator Hexo.
 <br>
-<a href="https://ppoffice.github.io/hexo-theme-icarus/">Preview</a> |
-<a href="https://ppoffice.github.io/hexo-theme-icarus/categories/">Documentation</a> |
-<a href="https://github.com/ppoffice/hexo-theme-icarus/archive/master.zip">Download</a>
+<a href="https://github.com/humingfeng/hexo-theme-humingfeng">Preview</a> |
+<a href="https://github.com/humingfeng/hexo-theme-humingfeng/archive/master.zip">Download</a>
 <br>
 </p>
 
-![Icarus](https://ppoffice.github.io/hexo-theme-icarus/gallery/preview.png?1 "Icarus Preview")
+![HMF](https://www.royalscholar.cn/images/show.png?1 "HMF Preview")
 
 ### :cd: Installation
 
 Download & extract or `git clone` Icarus from GitHub to your blog's theme folder, and that's it!
 
 ```shell
-git clone https://github.com/ppoffice/hexo-theme-icarus.git themes/icarus
+git clone https://github.com/humingfeng/hexo-theme-humingfeng.git themes/hexo-theme-humingfeng
 ```
 
-Once started, Icarus will remind you of any missing dependencies and configuration files.
+Once started, HuMingfeng will remind you of any missing dependencies and configuration files.
 
 ### :gift: Features
+
+> 基于主题https://github.com/ppoffice/hexo-theme-icarus修改
 
 **Extensive Plugin Support**
 

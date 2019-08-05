@@ -4,7 +4,7 @@ module.exports = {
     favicon: {
         [type]: 'string',
         [doc]: 'Path or URL to the website\'s icon',
-        [defaultValue]: '/images/favicon.svg',
+        [defaultValue]: 'https://www.royalscholar.cn/images/favicon.ico',
     },
     meta: {
         [type]: 'array',
@@ -22,7 +22,7 @@ module.exports = {
     },
     logo: {
         [type]: ['string', 'object'],
-        [defaultValue]: '/images/logo.svg',
+        [defaultValue]: '/images/hu.svg',
         [doc]: 'Path or URL to the website\'s logo to be shown on the left of the navigation bar or footer',
         text: {
             [type]: 'string',
