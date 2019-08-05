@@ -112,10 +112,6 @@ menu:
 # Here is some simple markdown.</pre>
         </td>
     </tr>
-    <tr>
-        <td><img height="40" src="https://ppoffice.github.io/hexo-theme-icarus/gallery/navbar/main-config.png"></td>
-        <td><img height="40" src="https://ppoffice.github.io/hexo-theme-icarus/gallery/navbar/post-config.png"></td>
-    </tr>
 </table>
 </div>
 
@@ -123,8 +119,6 @@ menu:
 
 No matter what modern browsering device your audiences are using, they can always get the best experience because Icarus's responsive
 layout across multiple viewpoints.
-
-![Responsive Layout](https://ppoffice.github.io/hexo-theme-icarus/gallery/responsive.png)
 
 ### :hammer: Development
 
@@ -139,13 +133,13 @@ Please refer to the documentation for Icarus implementation details.
 
 ### :tada: Contribute
 
-If you feel like to help us build a better Icarus, you can
+If you feel like to help us build a better humingfeng, you can
 
 :electric_plug: Write a plugin |
-:black_nib: <a href="https://github.com/ppoffice/hexo-theme-icarus/new/site/source/_posts">Submit a tutorial</a> |
-:triangular_flag_on_post: <a href="https://github.com/ppoffice/hexo-theme-icarus/issues/new">Report a bug</a> |
-:earth_asia: <a href="https://github.com/ppoffice/hexo-theme-icarus/tree/master/languages">Add a translation</a>
+:black_nib: <a href="https://github.com/humingfeng/hexo-theme-humingfeng/new/site/source/_posts">Submit a tutorial</a> |
+:triangular_flag_on_post: <a href="https://github.com/humingfeng/hexo-theme-humingfeng/issues/new">Report a bug</a> |
+:earth_asia: <a href="https://github.com/humingfeng/hexo-theme-humingfeng/tree/master/languages">Add a translation</a>
 
 ### :memo: License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ppoffice/hexo-theme-icarus/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/humingfeng/hexo-theme-humingfeng/blob/master/LICENSE) file for details.
