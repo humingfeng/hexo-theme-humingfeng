@@ -3,11 +3,11 @@ const { doc, type, defaultValue, required, requires, format } = require('../comm
 const DEFAULT_DONATE = [
     {
         type: 'alipay',
-        qrcode: ''
+        qrcode: 'https://humf-001.oss-cn-beijing.aliyuncs.com/qrcode/Alipay.jpeg?OSSAccessKeyId=LTAI9M4ArWPmLg8r&Expires=1659667090&Signature=Gdh3qEKuYuzDYCu3EYfDF%2FrTGjM%3D'
     },
     {
         type: 'wechat',
-        qrcode: ''
+        qrcode: 'https://humf-001.oss-cn-beijing.aliyuncs.com/qrcode/Wechat.jpeg?OSSAccessKeyId=LTAI9M4ArWPmLg8r&Expires=1659667119&Signature=STFuIkMOlhrypB5fBGaU11ufDnI%3D'
     },
     {
         type: 'paypal',

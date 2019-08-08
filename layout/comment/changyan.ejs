@@ -3,9 +3,33 @@
     You forgot to set the <code>appid</code> or <code>conf</code> for Changyan. Please set it in <code>_config.yml</code>.
 </div>
 <% } else { %>
+
 <div id="SOHUCS" sid="<%= post.path %>"></div>
 <script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
 <script type="text/javascript">
+/**
+     * 方法实现说明
+     * @method      去除畅言云评论的非会员广告
+     * @author      胡铭锋
+     * @version     1.0
+     * @exception
+     * @date        2019-08-07 15:30
+     */
+(function () {
+    var style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerHTML = '#pop_ad{ display: none !important; }';
+    document.getElementsByTagName('HEAD').item(0).appendChild(style);
+
+    var __observe = window.MutationObserver.prototype.observe;
+    window.MutationObserver.prototype.observe = function (target, options) {
+        if (target.id !== "cy-cmt-list") return __observe();
+        return setTimeout(function () {
+            document.getElementById('feedAv').style.cssText = 'display: none !important';
+        }, 0);
+    };
+}());
+
 window.changyan.api.config({
     appid: '<%= get_config('comment.appid') %>',
     conf: '<%= get_config('comment.conf') %>'
