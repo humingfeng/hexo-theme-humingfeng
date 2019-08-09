@@ -7,7 +7,7 @@
 <br>
 </p>
 
-![HMF](https://www.royalscholar.cn/images/show.png)
+![HMF](https://github.com/humingfeng/hexo-theme-humingfeng/images/show.png)
 
 ### :cd: Installation
 
