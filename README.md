@@ -7,7 +7,7 @@
 <br>
 </p>
 
-![HMF](https://www.royalscholar.cn/images/show.png?1 "HMF Preview")
+![HMF](https://www.royalscholar.cn/images/show.png "HMF Preview")
 
 ### :cd: Installation
 
