@@ -7,7 +7,7 @@
 <br>
 </p>
 
-![HMF](https://github.com/humingfeng/hexo-theme-humingfeng/images/show.png)
+![HMF](https://github.com/humingfeng/hexo-theme-humingfeng/blob/master/source/images/show.png)
 
 ### :cd: Installation
 
