@@ -1,5 +1,5 @@
 <p align="center" class="has-mb-6">
-<img class="not-gallery-item" height="48" src="https://www.royalscholar.cn/images/hu.svg">
+<img class="not-gallery-item" height="48" src="https://www.humingfeng.cn/images/hu.svg">
 <br> A simple, delicate, and modern theme for the static site generator Hexo.
 <br>
 <a href="https://github.com/humingfeng/hexo-theme-humingfeng">Preview</a> |
@@ -7,7 +7,7 @@
 <br>
 </p>
 
-![HMF](https://www.royalscholar.cn/images/show.png "HMF Preview")
+![HMF](https://www.humingfeng.cn/images/show.png "HMF Preview")
 
 ### :cd: Installation
 
